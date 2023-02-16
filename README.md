@@ -1,4 +1,4 @@
-# R---Studio-project
+# R---Studio-Project
 Prediction Analysis of Wind Energy Consumption for next 30 years
 The Code used for the project is as follows:
 
